@@ -1,0 +1,12 @@
+
+.account-form {
+    max-width: 400px;
+    margin: 20px;
+  }
+  
+  .account-form label,
+  .account-form input {
+    display: block;
+    margin-bottom: 10px;
+  }
+  

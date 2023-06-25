@@ -1,0 +1,34 @@
+.welcome-message {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.welcome-message h1 {
+    font-size: 24px;
+    color: #333;
+}
+
+.welcome-message p {
+    font-size: 16px;
+    color: #666;
+    margin-top: 10px;
+}
+
+.login-button {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-button a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    color: #333;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.login-button a:hover {
+    background-color: #ccc;
+}
